@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arizonia</item>
+        <item>@font/audiowide</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_bold</item>
+    </array>
+</resources>
